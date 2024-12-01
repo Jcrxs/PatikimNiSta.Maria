@@ -1,2 +1,1 @@
-# PatikimNiSta.Maria
-Web Dev Final Project 
+https://jcrxs.github.io/PatikimNiSta.Maria/
